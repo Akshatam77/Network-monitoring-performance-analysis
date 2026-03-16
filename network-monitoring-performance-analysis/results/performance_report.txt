@@ -1,0 +1,31 @@
+NETWORK PERFORMANCE ANALYSIS REPORT
+
+Project: Network Monitoring and Performance Analysis
+
+Monitoring Tool: Python Network Script
+Packet Capture Tool: Wireshark
+Network Simulation: Cisco Packet Tracer
+
+---------------------------------------
+
+Device Performance Metrics
+
+Device      Latency(ms)    Packet Loss(%)    Bandwidth(Mbps)    Throughput(Mbps)
+
+PC1         10             0                 100                85
+PC2         12             1                 100                80
+Server      15             0                 120                100
+Router      8              0                 150                120
+Switch      5              0                 200                170
+
+---------------------------------------
+
+Average Latency: 10 ms
+Average Throughput: 111 Mbps
+Total Packet Loss: 1 %
+
+Conclusion:
+The network is functioning efficiently with minimal packet loss. 
+Monitoring tools successfully detected network performance metrics.PC1 ----\
+         Switch ---- Router ---- Server
+PC2 ----/

@@ -1,0 +1,3 @@
+PC1 ----\
+         Switch ---- Router ---- Server
+PC2 ----/

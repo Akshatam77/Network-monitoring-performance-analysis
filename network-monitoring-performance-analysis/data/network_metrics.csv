@@ -1,0 +1,6 @@
+Device,Latency_ms,Packet_Loss_%,Bandwidth_Mbps,Throughput_Mbps
+PC1,10,0,100,85
+PC2,12,1,100,80
+Server,15,0,120,100
+Router,8,0,150,120
+Switch,5,0,200,170
